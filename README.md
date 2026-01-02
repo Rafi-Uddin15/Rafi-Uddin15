@@ -1,56 +1,46 @@
-# Hi there, I'm Rafi Uddin! 👋
-### 🚀 Software Engineer | AI & Automation Enthusiast
+# Hi there, I'm Rafi Uddin! 👋 
+## Data Analyst | AI Engineer | Python Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafi-uddin15/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Rafi-Uddin15)
+I am a **Technical Data Analyst** and **Software Engineer** from Bangladesh, specializing in turning data into actionable business insights and building intelligent AI systems. 
 
----
-
-### 👨‍💻 About Me
-I am a passionate developer focused on building **Agentic AI Systems** and **Enterprise Automation**. I specialize in creating intelligent orchestrators that solve real-world business problems.
-
-*   🔭 I’m currently building **[AutoDesk Agent](https://github.com/Rafi-Uddin15/autodesks-agent)**, an autonomous support system.
-*   🌱 I’m currently learning **Advanced RAG & Multi-Agent Systems**.
-*   💡 I love turning complex logic into clean, scalable code.
+Unlike a traditional analyst, I don't just "report" data—I build **automated pipelines** using Python & SQL, create **predictive models** to forecast trends, and deploy **interactive dashboards** that drive decision-making.
 
 ---
 
-### 🔬 Research & Publications
-**Interpretable AI Research Published in IEEE Xplore**
-> *"Interpretable Illness-Category Classification..."*
-I actively contribute to the academic AI community, focusing on making AI models more transparent and trustworthy.
+### 🚀 Featured Projects
+
+| **Project** | **Role** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **[Healthcare Risk Engine](https://github.com/Rafi-Uddin15/Healthcare-Claims-Risk-Engine)** | **Data Analyst** | `SQL` `Power BI` `Excel` `Python` `Fraud Detection` |
+| **[RetiNet AI Suite](https://github.com/Rafi-Uddin15/RetiNet-Pro)** | **AI Engineer** | `PyTorch` `Computer Vision` `Docker` `Swin Transformer` |
+| **[AutoDesk Agent](https://github.com/Rafi-Uddin15/autodesks-agent)** | **Backend Dev** | `LangGraph` `FastAPI` `LLMs` `Agentic Workflows` |
+| **[Air Quality Advisor](https://github.com/Rafi-Uddin15/Air-Quality-Advisor)** | **IoT Developer** | `Arduino` `IoT` `Machine Learning` `Sensors` |
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🛠️ Technical Arsenal
 
-**AI & Data:**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**📊 Data Analytics & BI**
+*   **Database**: SQL (PostgreSQL, SQLite), Query Optimization, Data Modeling.
+*   **Visualization**: Microsoft Power BI (DAX), Tableau, Plotly, Streamlit.
+*   **Processing**: Excel (Advanced), Pandas, NumPy.
 
-**Backend:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+**🤖 AI & Machine Learning**
+*   **Frameworks**: PyTorch, Scikit-Learn, TensorFlow.
+*   **Domains**: Computer Vision (Retinal Scan Analysis), NLP (Agentic Systems).
+*   **Deployment**: Docker, FastAPI, Streamlit Cloud.
 
 ---
 
-### 🏆 Featured Projects
-
-#### 🤖 [AutoDesk: Intelligent Support Orchestrator](https://github.com/Rafi-Uddin15/autodesks-agent)
-> *An enterprise-grade AI support system using LangGraph, FastAPI, and OpenRouter.*
-*   **Architecture:** Orchestrator-Workers pattern with Reflection (QA).
-*   **Tech:** Python, LangGraph, Streamlit, Docker.
-*   **Impact:** Automates billing and technical support with 99% accuracy.
-
----
-
-### 📊 GitHub Stats
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafi-Uddin15&show_icons=true&theme=radical)
+### 📈 GitHub Stats
+![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafi-Uddin15&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Uddin15&layout=compact&theme=radical)
 
 ---
-*Let's connect and build something amazing!*
+
+### 📫 Let's Connect
+*   **LinkedIn**: [linkedin.com/in/rafi-uddin15](https://www.linkedin.com/in/rafi-uddin15)
+*   **Email**: rafiuddinofficial@gmail.com
+*   **Location**: Dhaka, Bangladesh 🇧🇩
+
+*"I don't just analyze the past; I predict the future."*
