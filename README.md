@@ -32,9 +32,16 @@ Unlike a traditional analyst, I don't just "report" data—I build **automated p
 
 ---
 
-### 📈 GitHub Stats
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafi-Uddin15&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Uddin15&layout=compact&theme=dracula)
+### 📈 GitHub Activity
+
+![GitHub followers](https://img.shields.io/github/followers/Rafi-Uddin15?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Rafi-Uddin15?style=social)
+
+**Languages I Use:**
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
