@@ -18,7 +18,19 @@ Unlike a traditional analyst, I don't just "report" data—I build **automated p
 
 ---
 
-### 🛠️ Technical Arsenal
+### � Research & Publications
+
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/)
+
+**Interpretable Illness-Category Classification from Drug Attributes Using XGBoost with SHAP Explanations**  
+*2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*  
+📄 **Publisher**: IEEE | 🗓️ **Date**: July 2025
+
+> Achieved **99.52% accuracy** using XGBoost with Explainable AI (SHAP) for pharmaceutical drug classification.
+
+---
+
+### �🛠️ Technical Arsenal
 
 **📊 Data Analytics & BI**
 *   **Database**: SQL (PostgreSQL, SQLite), Query Optimization, Data Modeling.
